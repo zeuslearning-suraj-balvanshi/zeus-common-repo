@@ -1,2 +1,8 @@
 console.log("This is file 1")
-console.log("git trial");
+
+
+function(){
+    console.log("git trial");
+console.log("line1");
+console.log("line2");
+}
